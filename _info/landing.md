@@ -1,5 +1,5 @@
 ---
-title: My Portfolio
+title: Amy's Website
 name: landing.md
 image: me.jpg
 ---
